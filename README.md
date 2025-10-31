@@ -1,1 +1,1 @@
-# Greedy-Florist-ALGO
+# Greedy-Florist-ALGO This program finds the minimum total cost for friends buying flowers together.It sorts flower prices from most to least expensive and increases the cost for each friend every time they buy again.
